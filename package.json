@@ -1,0 +1,16 @@
+{
+  "name": "bitbank-matbea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./simple-test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-webdriver": "3.6.0",
+    "chromedriver": "2.33.2",
+    "mocha": "4.0.1"
+  },
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
